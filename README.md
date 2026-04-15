@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, 👋
 
-<!--
-**mikolajgasior/mikolajgasior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer with nearly **two decades** of hands-on experience in **computing**.
 
-Here are some ideas to get you started:
+## 🚀 My current endeavours include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ Designing scalable, secure systems with a focus on performance, resilience, and continuity
+- 🔧 Crafting tailored DevOps tooling and Kubernetes extensions to streamline operations
+- 🛠️ Reviving cherished hobby projects
+
+## 🛠️ My tech stack:
+
+- **💻 Development**: Golang
+- **☁️  Cloud**: AWS
+- **📈 Observability**: LGTM (Loki, Grafana, Tempo, Mimir)
+- **⚙️  Infrastructure**: Kubernetes, Terraform, Terragrunt, Terratest, GitOps (ArgoCD, Flux)
+
+I believe in clean code, smart automation, and building systems that last.  
+I'm always up for teaming up on projects that push boundaries and bring fresh ideas to life.  
+Let’s connect if you're building something bold!
+
